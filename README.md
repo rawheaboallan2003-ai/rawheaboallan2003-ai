@@ -68,18 +68,28 @@ Research project about detecting coordinated behavior on social media using Mach
 
 ## 📜 Certifications
 
+---
+
+## 📜 Certifications
+
 ### One Million Prompters Initiative
 
 **Provider:** Dubai Future Foundation  
 **In collaboration with:** Dubai Centre for Artificial Intelligence  
 
-Focus:
+**Focus:**
 - Prompt Engineering
 - Artificial Intelligence Skills
-- AI Systems Interaction
+- Effective interaction with AI systems
 
-Certificate:
+**What I gained:**
+- Developed a better understanding of writing effective prompts for AI models.
+- Learned techniques to improve AI responses and achieve more accurate results.
+- Enhanced my ability to use AI tools for problem-solving, productivity, and software development tasks.
+
+**Certificate:**
 [View Certificate](./rawhe-abuallan-certificate.pdf)
+
 ## 📫 Contact
 
 Email:  rawheaboallan2003@gmail.com
