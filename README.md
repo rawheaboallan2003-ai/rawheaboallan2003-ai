@@ -68,10 +68,6 @@ Research project about detecting coordinated behavior on social media using Mach
 
 ## 📜 Certifications
 
----
-
-## 📜 Certifications
-
 ### One Million Prompters Initiative
 
 **Provider:** Dubai Future Foundation  
