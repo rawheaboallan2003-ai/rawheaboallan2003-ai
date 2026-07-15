@@ -1,16 +1,71 @@
-## Hi there 👋
+# Hi, I'm Rawhe 👋
 
-<!--
-**rawheaboallan2003-ai/rawheaboallan2003-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Graduate  
+💻 Full Stack Developer
 
-Here are some ideas to get you started:
+I build modern web applications using React, Next.js, Firebase and Supabase.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Projects
+
+### 🎮 Game Manager SaaS
+
+A management system for gaming centers that helps manage devices, customers, sales and inventory.
+
+**Technologies:**
+- React
+- TypeScript
+- Firebase
+- Tailwind CSS
+
+---
+
+### 🏠 Sakani - Student Housing Platform
+
+A platform that helps university students find and manage housing.
+
+**Technologies:**
+- Next.js
+- React
+- Tailwind CSS
+- Supabase
+
+---
+
+### 🤖 Bot Detection Research
+
+Research project about detecting coordinated behavior on social media using Machine Learning and Graph Neural Networks.
+
+**Technologies:**
+- Python
+- Machine Learning
+- Graph Neural Networks
+
+---
+
+## 🛠 Skills
+
+### Frontend
+- React.js
+- Next.js
+- JavaScript
+- TypeScript
+- Tailwind CSS
+
+### Backend & Database
+- Firebase
+- Supabase
+- SQL
+
+### Tools
+- Git & GitHub
+- Vercel
+- VS Code
+
+---
+
+## 📫 Contact
+
+Email:  rawheaboallan2003@gmail.com
+Phone#: +970595287073
