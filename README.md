@@ -79,7 +79,7 @@ Focus:
 - AI Systems Interaction
 
 Certificate:
-[View Certificate](certificates/rawhe-abuallan-certificate.pdf)
+[View Certificate](./rawhe-abuallan-certificate.pdf)
 ## 📫 Contact
 
 Email:  rawheaboallan2003@gmail.com
