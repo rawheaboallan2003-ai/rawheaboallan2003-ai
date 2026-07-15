@@ -64,7 +64,22 @@ Research project about detecting coordinated behavior on social media using Mach
 - VS Code
 
 ---
+---
 
+## 📜 Certifications
+
+### One Million Prompters Initiative
+
+**Provider:** Dubai Future Foundation  
+**In collaboration with:** Dubai Centre for Artificial Intelligence  
+
+Focus:
+- Prompt Engineering
+- Artificial Intelligence Skills
+- AI Systems Interaction
+
+Certificate:
+[View Certificate](certificates/rawhe-abuallan-certificate.pdf)
 ## 📫 Contact
 
 Email:  rawheaboallan2003@gmail.com
