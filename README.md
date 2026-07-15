@@ -86,6 +86,25 @@ Research project about detecting coordinated behavior on social media using Mach
 **Certificate:**
 [View Certificate](./rawhe-abuallan-certificate.pdf)
 
+
+### Stay Ahead of the AI Curve
+
+**Provider:** Google (via Coursera)
+
+**Focus:**
+- Artificial Intelligence fundamentals
+- Understanding AI trends and applications
+- Adapting to AI-driven technologies
+
+**What I gained:**
+- Built a stronger understanding of how AI is transforming technology and industries.
+- Learned how to stay updated with AI developments and apply AI concepts effectively.
+- Improved my awareness of AI tools and their practical use in problem-solving and development.
+
+**Certificate:**
+![Google AI Certificate](./Coursera-HI5ZN0DEGQ6A.pdf)
+
+
 ## 📫 Contact
 
 Email:  rawheaboallan2003@gmail.com
