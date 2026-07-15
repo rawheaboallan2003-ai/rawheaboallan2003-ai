@@ -102,7 +102,7 @@ Research project about detecting coordinated behavior on social media using Mach
 - Improved my awareness of AI tools and their practical use in problem-solving and development.
 
 **Certificate:**
-![Google AI Certificate](./Coursera-HI5ZN0DEGQ6A.pdf)
+![Google AI Certificate](./Coursera HI5ZN0DEGQ6A.pdf)
 
 
 ## 📫 Contact
